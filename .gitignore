@@ -40,3 +40,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows
 bio_train.dat
+dna.mat
+olivettifaces.mat
